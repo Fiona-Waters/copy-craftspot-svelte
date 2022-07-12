@@ -1,5 +1,5 @@
 site_name: Craftspot
-site_url: https://craftspot-svelte.netlify.app/
+site_url: https://copy-craftspot-svelte.readthedocs.io/
 repo_url: https://github.com/Fiona-Waters/copy-craftspot-svelte
 theme: readthedocs
 plugins:
