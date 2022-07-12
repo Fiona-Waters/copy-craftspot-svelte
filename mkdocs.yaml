@@ -1,0 +1,6 @@
+site_name: Craftspot
+site_url: https://craftspot-svelte.netlify.app/
+repo_url: https://github.com/Fiona-Waters/copy-craftspot-svelte
+theme: readthedocs
+plugins:
+  - search

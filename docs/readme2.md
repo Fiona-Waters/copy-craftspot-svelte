@@ -1,4 +1,4 @@
-# Full Stack Web Development - Assignment 2 (Craftspot-Svelte)
+# 2Full Stack Web Development - Assignment 2 (Craftspot-Svelte)
 ## Project Name: Craftspot-Svelte
 This application works in conjunction with the Placemark(Craftspot) API. 
 (https://github.com/Fiona-Waters/placemark)
